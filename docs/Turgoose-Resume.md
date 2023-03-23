@@ -6,10 +6,7 @@ title: Joseph Turgoose Resume
 Computer Programmer
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/JosephTurgoose/Turgoose-Resume/blob/master/docs/Turgoose-Resume.md">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
